@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/cba63fd3-4eb7-4cf5-9bc9-161b2fb3870f)
-
 # Sales Analysis with Power BI Desktop
 This repository contains a comprehensive sales analysis project using Power BI Desktop, focusing on cleaning data, creating visualizations segmented by country, region, and market, analyzing shipping percentages, and generating detailed sales reports.
 
